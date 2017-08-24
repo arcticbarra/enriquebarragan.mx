@@ -2,7 +2,7 @@
 title: Enrique Barragan - Software Developer
 description: "A blog about software development and personal experiences"
 baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
-url: "http://enriquebarragan.mx/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+url: "http://enriquebarragan.mx" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
 username: enrique barragan
 user_title: Lorem Ipsum - FrontEnd
