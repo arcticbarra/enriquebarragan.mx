@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Sharding in MongoDB"
+title:  "Multitenancy with apartment"
 image: ''
-date:   2016-09-12 00:06:31
+date:   2017-08-24 09:06:31
 tags:
-- mongodb
-description: ''
+- apartment rails multitenancy
+description: 'Creating a multitenant site using apartment gem in Ruby on Rails'
 categories:
-- Learn Jekyll 
+- Rails
 ---
 
-<p class="music-read"><a href="spotify:track:4DAZ8UYNpWVIV46aLkN2Qp">Music for reading(spotify)</a></p>
+<p class="music-read"><a href="spotify:track:4QRWA5UqYU1st9aO0UfxOj">Music for reading(spotify)</a></p>
 
 <img src="http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2016/02/raw.gif">
 
